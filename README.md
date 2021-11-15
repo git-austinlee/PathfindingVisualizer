@@ -13,3 +13,6 @@ A*
 
 Next algorithm:
 Dijkstra's
+
+
+Program written in Java. To run, launch the included PathfindingVisualizer.jar file
