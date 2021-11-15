@@ -196,7 +196,7 @@ public class gui extends JPanel
         controlsPanel.add(setEndLabel, new GridConstraints(1, 0, 1, 1, GridConstraints.ANCHOR_WEST, GridConstraints.FILL_NONE, GridConstraints.SIZEPOLICY_FIXED, GridConstraints.SIZEPOLICY_FIXED, null, null, null, 1, false));
         setObstacleLabel = new JLabel();
         setObstacleLabel.setForeground(new Color(-16777216));
-        setObstacleLabel.setText("Set obstacle: Left click");
+        setObstacleLabel.setText("Set obstacle: Hold middle click");
         controlsPanel.add(setObstacleLabel, new GridConstraints(2, 0, 1, 1, GridConstraints.ANCHOR_WEST, GridConstraints.FILL_NONE, GridConstraints.SIZEPOLICY_FIXED, GridConstraints.SIZEPOLICY_FIXED, null, null, null, 1, false));
         eraseLabel = new JLabel();
         eraseLabel.setForeground(new Color(-16777216));
