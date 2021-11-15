@@ -1,12 +1,12 @@
 # PathfindingVisualizer
 
-Create a maze and see how different pathfinding algorithms reach the goal
+Create a maze and see how different pathfinding algorithms reach the goal. <br />
 
-*Controls*
-Hold "s" + left click: set start node
-Hold "e" + left click: set end node
-Hold middle click: set obstacles
-Right click: erase
+*Controls:*<br />
+Hold "s" + left click: set start node<br />
+Hold "e" + left click: set end node<br />
+Hold middle click: set obstacles<br />
+Right click: erase<br />
 
 Current supported algorithms:
 A*
